@@ -1,0 +1,104 @@
+[
+  
+  
+  {
+    "Name": "Aspirin 81mg",
+    "notes": "Used for pain relief and blood thinning.",
+    "Expiry": "2026-12-31T00:00:00",
+    "quantity": 150,
+    "price": 7.99,
+    "Brand": "Bayer"
+  },
+  
+  {
+    "Name": "Lisinopril 10mg",
+    "notes": "Blood pressure medication. Take once daily.",
+    "Expiry": "2025-06-15T00:00:00",
+    "quantity": 90,
+    "price": 12.50,
+    "Brand": "Generic"
+  },
+  {
+    "Name": "Amoxicillin 500mg",
+    "notes": "Antibiotic. Finish the full course.",
+    "Expiry": "2027-03-01T00:00:00",
+    "quantity": 45,
+    "price": 22.00,
+    "Brand": "GlaxoSmithKline"
+  },
+  {
+    "Name": "Expired Allergy Pills",
+    "notes": "Antihistamine. Expired, should not be used.",
+    "Expiry": "2023-01-01T00:00:00",
+    "quantity": 2,
+    "price": 5.99,
+    "Brand": "Claritin"
+  },
+
+  {
+    "Name": "Aspirin 81mg",
+    "notes": "Used for pain relief and blood thinning.",
+    "Expiry": "2026-12-31T00:00:00",
+    "quantity": 150,
+    "price": 7.99,
+    "Brand": "Bayer"
+  },
+  {
+    "Name": "Lisinopril 10mg",
+    "notes": "Blood pressure medication. Take once daily.",
+    "Expiry": "2025-06-15T00:00:00",
+    "quantity": 90,
+    "price": 12.50,
+    "Brand": "Generic"
+  },
+  {
+    "Name": "Amoxicillin 500mg",
+    "notes": "Antibiotic. Finish the full course.",
+    "Expiry": "2027-03-01T00:00:00",
+    "quantity": 45,
+    "price": 22.00,
+    "Brand": "GlaxoSmithKline"
+  },
+  {
+    "Name": "Expired Allergy Pills",
+    "notes": "Antihistamine. Expired, should not be used.",
+    "Expiry": "2023-01-01T00:00:00",
+    "quantity": 2,
+    "price": 5.99,
+    "Brand": "Claritin"
+  },
+
+  {
+    "Name": "Aspirin 81mg",
+    "notes": "Used for pain relief and blood thinning.",
+    "Expiry": "2026-12-31T00:00:00",
+    "quantity": 150,
+    "price": 7.99,
+    "Brand": "Bayer"
+  },
+  {
+    "Name": "Lisinopril 10mg",
+    "notes": "Blood pressure medication. Take once daily.",
+    "Expiry": "2025-06-15T00:00:00",
+    "quantity": 90,
+    "price": 12.50,
+    "Brand": "Generic"
+  },
+  {
+    "Name": "Amoxicillin 500mg",
+    "notes": "Antibiotic. Finish the full course.",
+    "Expiry": "2027-03-01T00:00:00",
+    "quantity": 45,
+    "price": 22.00,
+    "Brand": "GlaxoSmithKline"
+  },
+  {
+    "Name": "Expired Allergy Pills",
+    "notes": "Antihistamine. Expired, should not be used.",
+    "Expiry": "2023-01-01T00:00:00",
+    "quantity": 2,
+    "price": 5.99,
+    "Brand": "Claritin"
+  }
+  
+]

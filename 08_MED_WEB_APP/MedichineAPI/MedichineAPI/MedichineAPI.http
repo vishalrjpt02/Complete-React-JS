@@ -1,0 +1,6 @@
+@MedichineAPI_HostAddress = http://localhost:5231
+
+GET {{MedichineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
