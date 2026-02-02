@@ -29,7 +29,7 @@ function App() {
     const filtered = medicines.filter((m) =>
         m.name.toLowerCase().includes(search.toLowerCase())
     );
-debugger
+//debugger
     const columns = [
         { field: "name", headerName: "Name", flex: 1 },
         { field: "brand", headerName: "Brand", flex: 1 },
