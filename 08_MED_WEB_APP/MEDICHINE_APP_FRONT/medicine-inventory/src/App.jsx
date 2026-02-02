@@ -29,23 +29,24 @@ function App() {
     const filtered = medicines.filter((m) =>
         m.name.toLowerCase().includes(search.toLowerCase())
     );
-
+debugger
     const columns = [
         { field: "name", headerName: "Name", flex: 1 },
         { field: "brand", headerName: "Brand", flex: 1 },
+        
         {
             field: "expiry",
             headerName: "Expiry",
             flex: 1,
             valueFormatter: ( params) =>
-                params?.value ? params.value.toLocaleDateString("en-IN") : "",
+                params?.value ? params.value.toLocaleDateString("en-IN") : params.value,
         },
         { field: "quantity", headerName: "Quantity", flex: 1 },
         {
             field: "price",
             headerName: "Price ($)",
             flex: 1,
-            valueFormatter: (params) => `$${params.value.toFixed(2)}`,
+            valueFormatter: (params) => params?.value !== undefined ? `$${params.value.toFixed(2)}` : params.value,
         },
     ];
 
@@ -53,7 +54,7 @@ function App() {
         const expiry = new Date(params.row.expiry);
         const diffDays = (expiry - today) / (1000 * 60 * 60 * 24);
         if (diffDays < 30) return "rgba(255, 0, 0, 0.2)"; // Red
-        if (params.row.quantity < 10) return "rgba(255, 255, 0, 0.3)"; // Yellow
+        if (params.row.quantity < 10) return "rgba(73, 73, 52, 0.3)"; // Yellow
         return "white";
     };
 
