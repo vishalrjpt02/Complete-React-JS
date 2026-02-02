@@ -32,3 +32,37 @@
 /Users/vishalrajput/GITHUB Codes/LeetCode-Practices/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.pdb
 /Users/vishalrajput/GITHUB Codes/LeetCode-Practices/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.genruntimeconfig.cache
 /Users/vishalrajput/GITHUB Codes/LeetCode-Practices/MedichineAPI/MedichineAPI/obj/Debug/net8.0/ref/MedichineAPI.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/appsettings.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/Uutility/Medichines.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/MedichineAPI
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/MedichineAPI.deps.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/MedichineAPI.runtimeconfig.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/MedichineAPI.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/MedichineAPI.pdb
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.csproj.AssemblyReference.cache
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.AssemblyInfoInputs.cache
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.AssemblyInfo.cs
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.csproj.CoreCompileInputs.cache
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.sourcelink.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets/msbuild.MedichineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.MedichineAPI.props
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MedichineAPI.props
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MedichineAPI.props
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/scopedcss/bundle/MedichineAPI.styles.css
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/Medichin.0C42FC74.Up2Date
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/refint/MedichineAPI.dll
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.pdb
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/MedichineAPI.genruntimeconfig.cache
+/Users/vishalrajput/VIshal Rajput/GIT CODES/JS repo/Complete-React-JS/08_MED_WEB_APP/MedichineAPI/MedichineAPI/obj/Debug/net8.0/ref/MedichineAPI.dll

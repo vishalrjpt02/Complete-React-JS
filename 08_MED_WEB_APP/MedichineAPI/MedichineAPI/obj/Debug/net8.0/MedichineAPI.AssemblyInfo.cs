@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedichineAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a47714aa71cf3059a010d03b1de6038ee6b2f3cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6139e7669928e657a4cea4fe846938dc44f4efd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedichineAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedichineAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
